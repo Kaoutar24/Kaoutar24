@@ -1,5 +1,5 @@
 # kaoutar
-### Hi there, I'm Kaoutar EL AMMOURI - [Portfolio][website] &nbsp; <img src="./wave.gif" width="24px">
+### Hi there, I'm Kaoutar EL AMMOURI a coder girl!
 
 [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)][website]
 
