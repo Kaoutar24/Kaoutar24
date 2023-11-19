@@ -1,4 +1,4 @@
-# kaoutar
+# Kaoutar24
 ### Hi there, I'm Kaoutar EL AMMOURI a coder girl!
 
 [![Website](https://img.shields.io/badge/My-Portfolio-brightgreen)][website]
